@@ -66,3 +66,4 @@ Do these **in order**. Check each box as you complete it. Ask your trainer if a 
 - `git log --oneline` : you should see **4+ commits**.
 - Confirm the repo on GitHub matches your local `main` branch (`git status` should say
       "up to date with origin/main").
+

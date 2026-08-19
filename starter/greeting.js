@@ -2,6 +2,7 @@
 // You will edit this file several times during the lab and commit each change.
 // Follow exercises.md step by step.
 
-console.log("Hello, Gitdd!");
+console.log("Hello, Gitdd!";
+console.log("Hello, Gitdd!";
 
 console.log("Hello, Gitdd!");
